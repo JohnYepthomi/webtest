@@ -1,0 +1,25 @@
+{
+    "name": "ridenllc",
+    "version": "1.0.0",
+    "description": "Webapp",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "engines": {
+        "node": "12.x"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JohnYepthomi/RidenLLC.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JohnYepthomi/RidenLLC/issues"
+    },
+    "homepage": "https://github.com/JohnYepthomi/RidenLLC#readme",
+    "dependencies": {
+        "static-server": "^2.2.1"
+    }
+}
